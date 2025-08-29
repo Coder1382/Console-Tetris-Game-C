@@ -1,5 +1,1 @@
-# Tetris Game
-User can play in Linux terminal as shown below
-
-https://github.com/user-attachments/assets/9f1ee39f-b5c8-462e-9903-b9d72a2911c5
-
+<a href="https://drive.google.com/file/d/13GewDRt6drFaV7nfuVVQfHTBAg53gwRz/view?usp=drive_link" target="_blank" style="text-align:center;"><h3>Click the Image</h3><img src="https://drive.google.com/file/d/1PWqTPBBi7WcnwnyB-cZcramChdVxiuLK/view?usp=sharing" style="width:25%; height:auto;"/></a>
